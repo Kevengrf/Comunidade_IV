@@ -1,0 +1,1 @@
+Este projeto foi gerado pela IA Gemini para criar um aplicativo para a Comunidade IV, utilizando React Native, Expo e Firebase.
