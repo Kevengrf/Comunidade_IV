@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# Bem-vindo ao App da Comunidade IV! 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é o aplicativo oficial da nossa Comunidade IV, um projeto pensado e criado por membros para membros. O objetivo é fortalecer nossos laços, facilitar a comunicação e centralizar informações importantes para todos nós.
 
-## Get started
+## ✨ Junte-se a nós e colabore!
 
-1. Install dependencies
+Este é um projeto de código aberto e feito com muito carinho. Se você é um desenvolvedor, designer, ou simplesmente tem ideias para melhorar nosso app, sua ajuda é mais que bem-vinda!
 
-   ```bash
-   npm install
-   ```
+Queremos que este aplicativo seja a cara da nossa comunidade, e para isso, contamos com a sua colaboração.
 
-2. Start the app
+## 🚀 Como começar
 
-   ```bash
-   npx expo start
-   ```
+Para começar a desenvolver e testar o aplicativo no seu ambiente local, siga os passos abaixo:
 
-In the output, you'll find options to open the app in a
+### 1. Instale as dependências
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+Primeiro, você precisa ter o [Node.js](https://nodejs.org/) instalado na sua máquina. Depois, clone o repositório e instale as dependências do projeto:
 
 ```bash
-npm run reset-project
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Inicie o aplicativo
 
-## Learn more
+Com as dependências instaladas, você pode iniciar o servidor de desenvolvimento do Expo:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Este comando irá iniciar o Metro Bundler e exibirá um QR code no seu terminal.
 
-## Join the community
+### 3. Abra no seu celular
 
-Join our community of developers creating universal apps.
+- **Android**: Baixe o aplicativo **Expo Go** na Play Store e escaneie o QR code.
+- **iOS**: Abra o aplicativo da câmera e aponte para o QR code.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Você também pode rodar a versão web do aplicativo para testar no seu navegador.
+
+## 🤔 Tem alguma ideia?
+
+Se você tem alguma sugestão, encontrou um bug, ou quer propor uma nova funcionalidade, abra uma [Issue](https://github.com/seu-usuario/seu-repositorio/issues) no nosso repositório do GitHub.
+
+**Vamos juntos construir o melhor aplicativo para a nossa Comunidade IV!**
